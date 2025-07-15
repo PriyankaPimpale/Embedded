@@ -1,3 +1,3 @@
 # Embedded
 printing hello world 
-output is'hello'
+output is'hello world'
